@@ -4,9 +4,6 @@ A small, accessible, responsive web app that lets a tenant report a maintenance 
 
 **Core flow:** describe the issue → choose category and urgency → submit → see confirmation.
 
-- Live site: _add your GitHub Pages URL here_
-- Figma design: _add your shareable Figma URL here_
-
 ## Screens / states
 
 1. **Report form**: unit, optional name, category, urgency (radio cards), description with character counter.
