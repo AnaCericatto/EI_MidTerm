@@ -7,7 +7,7 @@
   --surface: #ffffff;
   --text: #1a202c;
   --muted: #4a5568;
-  --border: #8a94a6;
+  --border: #6b7280; /* input/card borders: 4.5:1 on page bg, 4.8:1 on white (non-text needs 3:1) */
   --border-soft: #d5dbe5;
   --primary: #1d4ed8;
   --primary-dark: #1e3fae;

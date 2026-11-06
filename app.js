@@ -232,7 +232,7 @@
       ref.textContent = r.ref;
       var badge = document.createElement('span');
       badge.className = 'badge badge-' + String(r.urgency).toLowerCase();
-      badge.textContent = r.urgency + ' urgency';
+      badge.textContent = 'Urgency: ' + r.urgency;
       top.appendChild(ref);
       top.appendChild(badge);
 
